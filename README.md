@@ -54,7 +54,7 @@ We provide a GUI window for demostration
 TO DO
 ```
 
-## reference
+## Reference
 Our work is inspired by the papers below:
 ```
  @Article{IizukaSIGGRAPH2016,

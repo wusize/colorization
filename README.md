@@ -21,6 +21,18 @@ ${DATA_DIR}
 ......
 ```
 
+## Pre-trained model
+To get the pre-trained resnet50 model, download the .pth file from
+```
+https://download.pytorch.org/models/resnet50-0676ba61.pth
+```
+Note that if you are using an old version of Pytorch (e.g. 1.3) on your remote server, remember to transform the model on your PC as follows.
+```
+import torch
+m = torch.load(${MODEL_DIR})
+torch.save(m, ${MODEL_DIR}, _use_new_zipfile_serialization=False)
+```
+
 ## Run
 ### Train 
 To train the model, run 

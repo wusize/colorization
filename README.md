@@ -77,3 +77,19 @@ Our work is inspired by the papers below:
   month           = dec
 }
 ```
+```
+@article{DBLP:journals/corr/HeZRS15,
+  author    = {Kaiming He and Xiangyu Zhang and Shaoqing Ren and Jian Sun},
+  title     = {Deep Residual Learning for Image Recognition},
+  journal   = {CoRR},
+  year      = {2015},
+}
+```
+```
+@article{DBLP:journals/corr/LarsenSW15,
+  author    = {Anders Boesen Lindbo Larsen and Soren Kaae Sonderby and Ole Winther},
+  title     = {Autoencoding beyond pixels using a learned similarity metric},
+  journal   = {CoRR},
+  year      = {2015},
+}
+```

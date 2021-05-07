@@ -59,7 +59,8 @@ Our work is inspired by the papers below:
 ```
  @Article{IizukaSIGGRAPH2016,
    author = {Satoshi Iizuka and Edgar Simo-Serra and Hiroshi Ishikawa},
-   title = {{Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification}},
+   title = {{Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for 
+            Automatic Image Colorization with Simultaneous Classification}},
    journal = "ACM Transactions on Graphics (Proc. of SIGGRAPH 2016)",
    year = 2016,
    volume = 35,

@@ -2,7 +2,7 @@
 This is the code for the colorization project of the National Innovation Program.
 
 ## Introduction
-We use CNN models to colorize gray-sacle images in an end-to-end manner. Our work is primarily insprired by [Let there be color](https://github.com/satoshiiizuka/siggraph2016_colorization) which uses two parallel CNN sub-modules to extract low-level and high-level features. As a follow-up, we change the CNN-based backbone to the prevalent ResNet50 and use the publicly available pre-trained parameters to facilitate the training process.
+We use CNN models to colorize gray-sacle images in an end-to-end manner. Our work is primarily inspired by [Let there be color](https://github.com/satoshiiizuka/siggraph2016_colorization) which uses two parallel CNN sub-modules to extract low-level and high-level features. As a follow-up, we change the CNN-based backbone to the prevalent ResNet50 and use the [pre-trained parameters](https://download.pytorch.org/models/resnet50-0676ba61.pth) to facilitate the training process.
 
 Besides, we add a CNN-based attention module and appendix a discriminator to the colorizer in an attempt to get more plausible results.
 

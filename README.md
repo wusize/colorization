@@ -71,7 +71,7 @@ python -m torch.distributed.launch --nproc_per_node=${NUM_GPUS} dist_train_lr_me
 ### Demo
 We provide a GUI window for demostration
 ```
-TO DO
+Run Demo.py
 ```
 
 ## Reference

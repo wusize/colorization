@@ -71,9 +71,9 @@ python -m torch.distributed.launch --nproc_per_node=${NUM_GPUS} dist_train_lr_me
 ### Demo
 We provide a GUI window for demostration
 ```
-Run Demo.py
+python Demo.py
 ```
-![Watch the video](https://github.com/wusize/colorization/blob/main/demo/demo.mp4)
+https://github.com/wusize/colorization/blob/main/demo/demo.mp4
 
 ## Reference
 Our work is inspired by the papers below:

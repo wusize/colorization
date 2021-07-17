@@ -73,6 +73,7 @@ We provide a GUI window for demostration
 ```
 Run Demo.py
 ```
+![Demo](https://github.com/wusize/colorization/blob/main/demo/demo.mp4)
 
 ## Reference
 Our work is inspired by the papers below:

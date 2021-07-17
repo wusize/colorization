@@ -73,7 +73,7 @@ We provide a GUI window for demostration
 ```
 Run Demo.py
 ```
-<img src="https://github.com/wusize/colorization/blob/main/demo/demo.mp4" alt="show" />
+[![Watch the video]](https://github.com/wusize/colorization/blob/main/demo/demo.mp4)
 
 ## Reference
 Our work is inspired by the papers below:

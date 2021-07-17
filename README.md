@@ -2,7 +2,7 @@
 This is the code for the colorization project of the National Innovation Program.
 
 ## Introduction
-![Pipeline](https://github.com/wusize/colorization/blob/main/pipeline.png)
+![Pipeline](https://github.com/wusize/colorization/blob/main/pipeline_1.png)
 
 We use CNN models to colorize gray-sacle images in an end-to-end manner. Our work is primarily inspired by [Let there be color](https://github.com/satoshiiizuka/siggraph2016_colorization) which uses two parallel CNN sub-modules to extract low-level and high-level features. As a follow-up, we change the CNN-based backbone to the prevalent ResNet50 and use the [pre-trained parameters](https://download.pytorch.org/models/resnet50-0676ba61.pth) to facilitate the training process.
 

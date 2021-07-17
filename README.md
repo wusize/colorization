@@ -73,7 +73,8 @@ We provide a GUI window for demostration
 ```
 python Demo.py
 ```
-https://s31.aconvert.com/convert/p3r68-cdx67/kzbtj-4tjoe.gif
+
+![image](https://github.com/wusize/colorization/blob/main/demo/demo_1.gif)
 
 ## Reference
 Our work is inspired by the papers below:
